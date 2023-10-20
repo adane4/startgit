@@ -1,3 +1,3 @@
 # Starting Git 
 
-All the necassry informations included in. 
+All the necessary information is included here. 
